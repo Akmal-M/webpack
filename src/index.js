@@ -1,1 +1,3 @@
-console.log("webpack")
+import generateJoke from "./generateJoke";
+
+console.log(generateJoke)
